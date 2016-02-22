@@ -14,7 +14,7 @@ SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
 ## Instalation
 1.  Install using bower
 ```
-bower install webfont-medical-icons --save
+bower install azachar/webfont-medical-icons#sass-support --save
 ```
 2. Add into your ``SASS`` file
 ```sass
@@ -24,7 +24,7 @@ $md-font-path: "/bower_components/webfont-medical-icons/fonts";
 
 4. Add classes to your elements (JADE example)
 ```jade
-i.md.me-neurology
+i.md.md-neurology
 ```
 
 
