@@ -1,0 +1,26 @@
+{
+  "name": "webfont-medical-icons",
+  "description": "72 ICONS (X2) specialized in the Clinical & Medical world FREE and easy to use!",
+  "main": [
+    "scss/medical.scss"
+  ],
+  "authors": [
+    "Andrej Zachar",
+    "Samuel Frémondière"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "font",
+    "medical",
+    "awesome"
+  ],
+  "homepage": "https://github.com/azachar/webfont-medical-icons",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src"
+  ]
+}
