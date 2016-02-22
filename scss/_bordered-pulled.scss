@@ -1,25 +1,25 @@
 // Bordered & Pulled
 // -------------------------
 
-.#{$wf-css-prefix}-border {
+.#{$md-css-prefix}-border {
   padding: .2em .25em .15em;
-  border: solid .08em $wf-border-color;
+  border: solid .08em $md-border-color;
   border-radius: .1em;
 }
 
-.#{$wf-css-prefix}-pull-left { float: left; }
-.#{$wf-css-prefix}-pull-right { float: right; }
+.#{$md-css-prefix}-pull-left { float: left; }
+.#{$md-css-prefix}-pull-right { float: right; }
 
-.#{$wf-css-prefix} {
-  &.#{$wf-css-prefix}-pull-left { margin-right: .3em; }
-  &.#{$wf-css-prefix}-pull-right { margin-left: .3em; }
+.#{$md-css-prefix} {
+  &.#{$md-css-prefix}-pull-left { margin-right: .3em; }
+  &.#{$md-css-prefix}-pull-right { margin-left: .3em; }
 }
 
 /* Deprecated as of 4.4.0 */
 .pull-right { float: right; }
 .pull-left { float: left; }
 
-.#{$wf-css-prefix} {
+.#{$md-css-prefix} {
   &.pull-left { margin-right: .3em; }
   &.pull-right { margin-left: .3em; }
 }

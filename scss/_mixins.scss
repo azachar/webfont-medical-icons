@@ -3,7 +3,7 @@
 
 @mixin wf-icon() {
   display: inline-block;
-  font: normal normal normal #{$wf-font-size-base}/#{$wf-line-height-base} webfont-medical-icons; // shortening font declaration
+  font: normal normal normal #{$md-font-size-base}/#{$md-line-height-base} webfont-medical-icons; // shortening font declaration
   font-size: inherit; // can't have font-size inherit on line above, so need to override
   text-rendering: auto; // optimizelegibility throws things off #1094
   -webkit-font-smoothing: antialiased;

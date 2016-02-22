@@ -3,11 +3,11 @@
 
 @font-face {
   font-family: 'webfont-medical-icons';
-  src: url('#{$wf-font-path}/webfont-medical-icons.eot?v=#{$wf-version}');
-  src: url('#{$wf-font-path}/webfont-medical-icons.eot?#iefix&v=#{$wf-version}') format('embedded-opentype'),
-    url('#{$wf-font-path}/webfont-medical-icons.ttf?v=#{$wf-version}') format('truetype'),
-    url('#{$wf-font-path}/webfont-medical-icons.woff?v=#{$wf-version}') format('woff'),
-    url('#{$wf-font-path}/webfont-medical-icons.svg?v=#{$wf-version}#webfont-medical-icons') format('svg');
+  src: url('#{$md-font-path}/webfont-medical-icons.eot?v=#{$md-version}');
+  src: url('#{$md-font-path}/webfont-medical-icons.eot?#iefix&v=#{$md-version}') format('embedded-opentype'),
+    url('#{$md-font-path}/webfont-medical-icons.ttf?v=#{$md-version}') format('truetype'),
+    url('#{$md-font-path}/webfont-medical-icons.woff?v=#{$md-version}') format('woff'),
+    url('#{$md-font-path}/webfont-medical-icons.svg?v=#{$md-version}#webfont-medical-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
